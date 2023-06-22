@@ -6,7 +6,7 @@ This repository contains the VR application for the project. The accompanying cu
 
 The application is tested and run on the Meta Quest 2 HMD as a Android package/apk through sideloading. Other Android-based headsets might work but has not been tested and configured. 
 
-The apk's are downloaded from the Releases page. A setup video guide can also be found on the Releases page.
+The apk's are downloaded from the [Releases](https://github.com/embql/mindtheyoutherasmusplus/releases) page. A setup video guide can also be found on the Releases page.
 
 ---
 
