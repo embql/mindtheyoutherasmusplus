@@ -4,8 +4,11 @@
 MINDtheYOUTH is a two-year project (05/2021–04/2023) aimed at increasing the well-being of individuals through mindfulness, i.e. awareness skills. The project aims to provide young workers with knowledge, skills and competence to use mindfulness as one of the tools for promoting young people's well-being. The project is funded by Erasmus+ of the European Commission, is independently responsible for its content, and is carried out in cooperation between four different countries:
 
 Finland (Sosped Foundation)
+
 Lithuania (ERCC, Education, Research & Consultancy Center)
+
 Cyprus (STANDO LTD)
+
 Denmark (AAU, Aalborg University)
 
 
