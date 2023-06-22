@@ -1,4 +1,4 @@
-# MINDtheYOUTH Erasmus+: VR Application for immersive digital mindfulness training.
+# MINDtheYOUTH Erasmus+: VR Applications for immersive digital mindfulness training
 
 Visit our webpage for further information: www.mindtheyouth.eu
 
