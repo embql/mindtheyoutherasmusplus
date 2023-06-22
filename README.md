@@ -11,7 +11,12 @@ The apk's are downloaded from the [Releases](https://github.com/embql/mindtheyou
 ---
 
 Application TO-DO list:
-Add updated Finnish voices
+
+- Add updated Finnish voices and compile new APK's
+
+- Fix currently broken APK's
+
+- Upload code to GitHub
 
 # MISSION
 MINDtheYOUTH was a two-year project (05/2021–04/2023) aimed at increasing the well-being of individuals through mindfulness, i.e. awareness skills. The project aimed to provide young workers with knowledge, skills and competence to use mindfulness as one of the tools for promoting young people's well-being. The project was funded by Erasmus+ of the European Commission, was independently responsible for its content, and was carried out in cooperation between four different countries:
