@@ -2,7 +2,13 @@
 
 Visit our webpage for further information: www.mindtheyouth.eu
 
-This repository contains the VR application for the project. The curriculum and guidebook can be found and downloaded from the website.
+This repository contains the VR application for the project. The accompanying curriculum and guidebook can be downloaded from the website.
+
+The application is tested and run on the Meta Quest 2 HMD as a Android package/apk. Other Android-based headsets might work but has not been tested and configured. 
+
+The apk's are downloaded from the Releases page. A setup video guide can also be found on the Releases page.
+
+---
 
 Application TO-DO list:
 Add updated Finnish voices
