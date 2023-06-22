@@ -14,7 +14,7 @@ Denmark (AAU, Aalborg University)
 
 During the project, the participating countries will jointly develop a mindfulness training package, including a comprehensive curriculum and an application using VR technology to be designed, developed, and published during the project. In addition to these, a manual will also be made with comprehensive information on both mindfulness and the use of the VR application developed during the project.
 
-Identifying and supporting opportunities for youth work
+# Identifying and supporting opportunities for youth work
 
 The MINDtheYOUTH project aims not only to help youth workers find new innovative working methods, but also to highlight the importance of high-quality youth work as a promoter of young people's well-being. Mindfulness has been scientifically proven to support an individual's mental health and well-being, but its practice in youth work is still relatively low. This is because people who work with young people themselves do not feel that they master mindfulness methods well enough to teach them to others.
 
